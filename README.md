@@ -28,20 +28,31 @@ C:\Users\%UserName%\Documents\HuntGfn
 
 # Как настроить родительский контроль
 Перейдите в Steam > Настройки
+
 ![steam_Rx4zcfBZSL](https://user-images.githubusercontent.com/58136226/137602739-4700538e-f6a5-4a21-9168-0f62d8935ce6.png)
+
 Семья > Управление семейным доступом
+
 ![steam_xJgGSgNNuZ](https://user-images.githubusercontent.com/58136226/137602752-19831c7d-0894-4c5a-963a-3354bdca886c.png)
+
 Выберите такие настройки доступа:
+
 ![steam_QNw7bcM9kW](https://user-images.githubusercontent.com/58136226/137602774-43afe8a2-cad6-46fc-a5fb-e0ffcca280c0.png)
+
 >Далее
 Не выбирайте ни одной игры и нажимайте Далее.
 Указываем почту, нажимаем Далее.
 Вводим пин 0000
+
 ![steam_ZuqU2Dc0Z4](https://user-images.githubusercontent.com/58136226/137602816-943f40d0-2faf-4430-8511-79ce33309c85.png)
 Нажимаем Далее.
+
 Вводим код, который был выслан на почту.
+
 ![steam_DLE1gaN2F6](https://user-images.githubusercontent.com/58136226/137602845-1163c4f7-b279-42a3-8ea2-84c602ff687d.png)
+
 И в последний раз - Далее. 
 Готово, ваш аккаунт под семейным просмотром. Полностью открыть библиотеку и возможности можно нажав сюда и введя пароль.
+
 ![steam_Xt7KdYWVYL](https://user-images.githubusercontent.com/58136226/137602876-5cfd5fcf-1f2e-4fc6-a0b8-07d4f7d8ac0a.png)
 
